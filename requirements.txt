@@ -1,0 +1,4 @@
+requests
+pyaudio
+loguru
+pydub
